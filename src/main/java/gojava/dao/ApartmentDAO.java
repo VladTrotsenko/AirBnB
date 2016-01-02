@@ -72,7 +72,11 @@ public class ApartmentDAO extends AbstractDAO<Integer, Apartment> {
 
     @Transactional
     public Apartment updateIsAvailable(Apartment entity, boolean flag) {
-        //TODO: implement
-        return null;
+        Query query = entityManager.createQuery("update Apartment a set a.isAvailable=:flag " +
+                "where a.id=:entityId");
+        query.setParameter("entityId", entity.getId());
+        query.setParameter("flag", flag);
+        query.executeUpdate();
+        return entity;
     }
 }

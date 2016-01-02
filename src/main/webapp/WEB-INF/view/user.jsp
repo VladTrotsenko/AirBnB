@@ -28,11 +28,18 @@ http://dribbble.com/shots/1439808-Profile-Widget
     <img src="/img/profilePhoto.jpg" class="photo" />
     <h1>${user.name} ${user.lastname}</h1>
     <div class="widgetAdd">
-    <div class="header-content">
-        <div class="header-content-inner">
-            <a href="#about" class="btn btn-primary btn-xl page-scroll">Add apartment</a>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Add apartment</a>
+            </div>
         </div>
     </div>
+    <div class="widgetAdd">
+        <div class="header-content">
+            <div class="header-content-inner">
+                <a href="index.jsp" class="btn btn-primary btn-xl page-scroll">Log out</a>
+            </div>
+        </div>
     </div>
 </div>
 

@@ -59,7 +59,10 @@ public class UserDAO extends AbstractDAO<Integer, User> {
 
     @Transactional
     public User updateIsHost(User entity) {
-        //TODO: implement
-        return null;
+        Query query = entityManager.createQuery("update User u set u.isRegisteredAsHost=true " +
+                "where u.id=:entityId");
+        query.setParameter("entityId", entity.getId());
+        query.executeUpdate();
+        return entity;
     }
 }

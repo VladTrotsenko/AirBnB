@@ -36,7 +36,7 @@ public class HomeController {
     SearchService searchService;
 
     @Autowired
-    ReservationService reservationService;
+    BookingService bookingService;
 
     @RequestMapping(value = {"/", "home", "index"})
     public String index() {
@@ -167,7 +167,7 @@ public class HomeController {
         Apartment apartment = (Apartment) httpSession.getAttribute("apartment");
         User host = userService.getUserById(apartment.getHostId());
         User client = (User) httpSession.getAttribute("user");
-        reservationService.createReservation(host, client, apartment, begin, end);
+        bookingService.createBooking(host, client, apartment, begin, end);
         modelAndView.setViewName("index");
         return modelAndView;
 

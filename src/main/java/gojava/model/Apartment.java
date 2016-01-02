@@ -68,7 +68,7 @@ public class Apartment extends AbstractEntity {
     }
 
     public boolean isAvailable() {
-        return isAvailable;
+        return this.isAvailable;
     }
 
     public void setIsAvailable(boolean isAvailable) {

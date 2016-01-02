@@ -18,6 +18,7 @@
         <h2 id="faq">APARTMENTS</h2>
         <div id="products" class="row list-group">
             <c:forEach items="${apartments}" var="apartment">
+                 <c:if test="${apartment.isAvailable()}">
                     <div class="item  col-xs-4 col-lg-4">
                         <div class="thumbnail">
                             <img class="group list-group-image" src="" alt="" />
@@ -35,6 +36,7 @@
                             </div>
                         </div>
                     </div>
+                 </c:if>
             </c:forEach>
         </div>
     </div>
