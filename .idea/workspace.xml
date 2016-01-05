@@ -23,24 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gojava/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8705442">
+            <state vertical-scroll-proportion="0.0">
               <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Apartment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gojava/model/Apartment.java">
+      <file leaf-file-name="Validation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gojava/validation/Validation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.44700462">
+              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,7 +46,7 @@
       <file leaf-file-name="apartments.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/apartments.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.7777777">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
               <folding />
             </state>
@@ -78,7 +76,7 @@
       <file leaf-file-name="user.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.740741">
+            <state vertical-scroll-proportion="0.0">
               <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
               <folding />
             </state>
@@ -258,7 +256,6 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1366" />
     <option name="y" value="21" />
     <option name="width" value="1366" />
     <option name="height" value="747" />
@@ -289,6 +286,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -599,7 +597,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1006,14 +1003,16 @@
       <workItem from="1451673681363" duration="9937000" />
       <workItem from="1451763392053" duration="2614000" />
       <workItem from="1451766290511" duration="2005000" />
+      <workItem from="1451853992760" duration="589000" />
+      <workItem from="1451922633308" duration="640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31134000" />
+    <option name="totallyTimeSpent" value="32363000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="-747" width="1366" height="747" extended-state="6" />
+    <frame x="0" y="21" width="1366" height="747" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1023,7 +1022,6 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14055637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1740413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1035,13 +1033,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15929204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1740413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1378,16 +1377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gojava/validation/Validation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gojava/services/CityService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1406,6 +1395,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gojava/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gojava/model/Apartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/apartments.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/apartment.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1418,6 +1433,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1454,36 +1477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gojava/model/Apartment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gojava/validation/Validation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/apartments.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.7777777">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.740741">
-          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gojava/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8705442">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.44700462">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
           <folding />
         </state>
       </provider>
